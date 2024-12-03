@@ -1,4 +1,5 @@
  <h1> Hi, i am Rodrigo Silva </h1>
+ <p></p>Back-end developer learning Node.js with an emphasis on the Express framework for backend. I have knowledge in JavaScript making the most of the Node.js ecosystem to build robust and scalable solutions. I have knowledge in MySQL and PostgreSQL databases.<br></p>
 
 <div>
   <a href="https://github.com/RodrigoDeSousaSilva">
