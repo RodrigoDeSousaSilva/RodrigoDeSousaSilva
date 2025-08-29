@@ -24,4 +24,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  <img align="center" alt="FiveM" src="https://img.shields.io/badge/FiveM-FF6F00?style=for-the-badge&logo=fivem&logoColor=white">
+ 
 </div>
